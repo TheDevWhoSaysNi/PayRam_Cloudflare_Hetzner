@@ -68,7 +68,7 @@ On your Terminal or PowerShell...
   curl -fsSL https://raw.githubusercontent.com/PayRam/payram-scripts/main/setup_payram.sh -o setup.sh
   ```
     ```bash
-  cchmod +x setup.sh
+  chmod +x setup.sh
   ```
   ```bash
   ./setup.sh --mainnet
